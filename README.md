@@ -3,7 +3,7 @@
 Sou licenciada em **Engenharia Informática**! 🎓 
 
 ## 🚀 Sobre mim
- * 💻 Tenho interesse na área de Desenvolvimento de Software, onde procuro criar soluções eficientes e bem estruturadas.
+ * 💻 Tenho interesse na área de Engenharia de Software, onde procuro criar soluções eficientes e bem estruturadas.
 
  * 📚 Atualmente, estou focada em desenvolver novos conhecimentos e explorar as tecnologias mais recentes do setor para expandir as minhas competências técnicas.
 
@@ -36,3 +36,6 @@ Sou licenciada em **Engenharia Informática**! 🎓
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+## 📈 Estatisticas
+![](https://github-readme-streak-stats.herokuapp.com/?user=Margarida-M-Marques&theme=dark)
