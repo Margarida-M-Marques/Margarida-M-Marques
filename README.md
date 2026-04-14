@@ -37,5 +37,6 @@ Sou licenciada em **Engenharia Informática**! 🎓
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 📈 Estatisticas
+## 📈 Estatísticas
+![](https://github-readme-stats.vercel.app/api?username=Margarida-M-Marques&show_icons=true&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Margarida-M-Marques&theme=dark)
