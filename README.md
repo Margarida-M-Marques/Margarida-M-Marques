@@ -38,4 +38,4 @@ Sou licenciada em **Engenharia Informática**! 🎓
 </div>
 
 ## 📈 Estatísticas
-![](https://github-readme-streak-stats.herokuapp.com/?user=Margarida-M-Marques&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Margarida-M-Marques&theme=dark&timezone=Europe/Lisbon)
