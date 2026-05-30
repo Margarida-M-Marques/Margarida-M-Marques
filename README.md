@@ -1,11 +1,5 @@
-## Hi there 👋 I'm Margarida!
-
-Sou licenciada em **Engenharia Informática**! 🎓 
-
-## 🚀 Sobre mim
- * 💻 Tenho interesse na área de Engenharia de Software, onde procuro criar soluções eficientes e bem estruturadas.
-
- * 📚 Atualmente, estou focada em desenvolver novos conhecimentos e explorar as tecnologias mais recentes do setor para expandir as minhas competências técnicas.
+## Hi there 👋 I'm Margarida! 
+* Informatics Engineering graduate from University of Coimbra, passionate about software engineering and building well-structured solutions. Currently expanding my skills in React and TypeScript while actively looking for an internship opportunity.
 
 ## 💻 Linguagens
 
