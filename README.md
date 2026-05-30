@@ -31,5 +31,12 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+## 🚀 Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Googol](https://github.com/Margarida-M-Marques/Googol-Search-Engine) | Distributed search engine with web crawler and relevance ranking | Java 17+, HTML, JavaScript, Spring Boot, Bootstrap, Java RMI, JSoup |
+| [MobilidadeUC](https://github.com/Margarida-M-Marques/MobilidadeUC-OOP) | Vehicle rental management system | Java 17+, OOP, UML Modeling, Javadoc |
+
+
 ## 📈 Git Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Margarida-M-Marques&theme=dark&timezone=Europe/Lisbon)
