@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Margarida! 
 * Informatics Engineering graduate from University of Coimbra, passionate about software engineering and building well-structured solutions. Currently expanding my skills in React and TypeScript while actively looking for an internship opportunity.
 
-## 💻 Linguagens
+## 💻 Programming Languages
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
 </div>
 
-## 🛠️ Ferramentas e Frameworks
+## 🛠️ Technologies and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -31,5 +31,5 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 📈 Estatísticas
+## 📈 Git Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Margarida-M-Marques&theme=dark&timezone=Europe/Lisbon)
