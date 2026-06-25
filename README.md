@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Margarida! 
-* Informatics Engineering graduate from University of Coimbra, passionate about software engineering and building well-structured solutions. Currently expanding my skills in React and TypeScript while actively looking for an internship opportunity.
+* Informatics Engineering graduate from University of Coimbra, passionate about software engineering and AI, with a focus on building well structured solutions. Currently looking for an internship opportunity.
 
 ## 💻 Programming Languages
 
