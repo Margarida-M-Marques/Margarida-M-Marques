@@ -36,6 +36,8 @@
 |--------|-------------|-------|
 | [Googol](https://github.com/Margarida-M-Marques/Googol-Search-Engine) | Distributed search engine with web crawler and relevance ranking | Java 17+, HTML, JavaScript, Spring Boot, Bootstrap, Java RMI, JSoup |
 | [MobilidadeUC](https://github.com/Margarida-M-Marques/MobilidadeUC-OOP) | Vehicle rental management system | Java 17+, OOP, UML Modeling, Javadoc |
+| [Reactive Agent](https://github.com/Margarida-M-Marques/lunar-lander-reactive-agent) | Reactive Agent for an autonomous spacecraft landing | Python |
+| [Evolutionary algorithm](https://github.com/Margarida-M-Marques/lunar-lander-evolutionary-algorithm) | Evolutionary algorithm to evolve neural networks for an spacecraft landing | Python |
 
 
 ## 📈 Git Stats
